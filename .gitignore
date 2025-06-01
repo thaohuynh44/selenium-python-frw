@@ -1,0 +1,53 @@
+# Byte-compiled / optimized / DLL files
+__pycache__/
+*.py[cod]
+*$py.class
+
+# Virtual environments
+.venv/
+venv/
+env/
+ENV/
+
+# Pytest cache
+.pytest_cache/
+
+# Logs and test output
+*.log
+output/
+reports/
+
+# Selenium drivers (if downloaded locally)
+chromedriver
+geckodriver
+
+# VSCode settings
+.vscode/
+
+# MacOS and system files
+.DS_Store
+
+# Python packaging
+build/
+dist/
+*.egg-info/
+
+# Environment files
+.env
+*.env
+.env.*
+
+# Jupyter / Notebook (if used)
+.ipynb_checkpoints/
+
+# IDEs
+.idea/
+*.iml
+
+# Coverage reports (if using pytest-cov)
+htmlcov/
+.coverage
+coverage.xml
+
+# Pip dependency cache
+pip-wheel-metadata/
